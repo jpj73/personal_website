@@ -1,0 +1,21 @@
+name: "JPJ Personal Website"
+output_dir: "."
+navbar:
+  title: "Juan Pablo Jordán"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research & News"
+      href: Research.html
+    - text: "CV"
+      href: CV.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Contact"
+      href: Contact.html
+
+output:
+  rmarkdown::html_document:
+    theme: lumen

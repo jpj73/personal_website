@@ -1,0 +1,30 @@
+---
+title: "Contact Information"
+output: html_document
+---
+
+<br>
+**Juan Pablo Jordán**
+
+jpj73 [at] cornell [dot] edu | (jpj73@cornell.edu)
+
+15 Tower Rd, Corson-Mudd Hall, Cornell University, Ithaca, New York 
+
+<br>
+
+google scholar:
+<br>
+
+researchgate:
+<br>
+
+twitter: 
+
+
+<br>
+<br>
+<br>
+
+***
+
+<center> _This website was written in R and R Markdown. The source code is available in a [public repository](https://github.com/jpj73/jpj73.github.io)._ </center>

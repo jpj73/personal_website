@@ -1,0 +1,28 @@
+---
+title: "Research & News"
+output: html_document
+---
+
+<br>
+
+**Current Research**
+<br>
+Coming soon...
+<br>
+<br>
+
+**Articles and Press releases**
+<br>
+
+*Forbes Magazine*: [This Ecuadorian Cured His Arachnophobia... And Became A Spider Scientist](https://www.forbes.com/sites/andrewwight/2021/01/03/this-ecuadorian-cured-his--arachnophobia-and-became-a-spider-scientist/?sh=1a84e06f77d2).
+
+<br>
+*The Cornell Daily Sun*: [Undergraduate Research Shines at CURB Fall Forum](https://cornellsun.com/2019/11/25/undergraduate-research-shines-at-curb-fall-forum/)
+
+<br>
+<br>
+<br>
+
+***
+
+<center> _This website was written in R and R Markdown. The source code is available in a [public repository](https://github.com/jpj73/jpj73.github.io)._ </center>

@@ -1,0 +1,25 @@
+---
+title: "About me..."
+output: html_document
+---
+
+<br>
+
+I'm an organismal biologist, currently doing a PhD in Ecology and Evolutionary Biology at Cornell University.  
+
+I was born and raised in Ecuador where I quickly found special interest in the amazing biodiversity around me. I spent most of my undergraduate career chasing neotropical spiders, which took me to conduct fieldwork in the mountain forests and the Amazon basin. Recently, I have found new interest in the natural compounds that mediate ecological interactions, which I will be exploring during my first year of graduate school.  
+
+I am committed to efforts in creating equal opportunity and representation of all groups in science, specially those from developing countries. I strongly believe that diversity is an asset that strengthens our community by the enrichment of various backgorunds, life experiences and points of view. 
+
+
+```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
+
+knitr::include_graphics("photos/personal_collage.jpeg") #I have to create a image and create a folder named "photos" to validate the path. 
+```
+
+<br>
+<br>
+<br>
+
+***
+<center> _This website was written in R and R Markdown. The source code is available in a [public repository](https://github.com/jpj73/jpj73.github.io)._ </center>
