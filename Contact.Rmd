@@ -12,7 +12,8 @@ jpj73 [at] cornell [dot] edu | (jpj73@cornell.edu)
 
 <br>
 
-Google scholar: <https://scholar.google.com/citations?user=WX1jrPkAAAAJ&hl=en&authuser=1>
+Google scholar: <https://scholar.google.com/citations?user=WX1jrPkAAAAJ&hl=en&authuser=1>  
+
 <br>
 
 Researchgate: <https://www.researchgate.net/profile/Juan-Jordan-5>    
@@ -28,3 +29,4 @@ Twitter: <https://twitter.com/JuanPabloJorda5>
 ***
 
 <center> _This website was written in R and R Markdown. The source code is available in a [public repository](https://github.com/jpj73/jpj73.github.io)._ </center>
+
