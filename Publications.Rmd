@@ -24,4 +24,4 @@ _Losey, J., Chen, C., Davis, A., Deitsch, J., Gertin, J., Gorneau, J.A., Hallock
 
 ***
 
-<center> _This website was written in R and R Markdown. The source code is available in a [public repository](https://github.com/jpj73/jpj73.github.io)._ </center>
+<center> _This website was written in R and R Markdown. The source code is available in a [public repository](https://github.com/jpj73/personal_website)._ </center>
