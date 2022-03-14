@@ -1,6 +1,7 @@
 ---
 title: "About me..."
 output: html_document
+
 ---
 
 <br>
@@ -12,13 +13,14 @@ I was born and raised in Ecuador where I quickly found special interest in the a
 I am committed to efforts in creating equal opportunity and representation of all groups in science, specially those from developing countries. I strongly believe that diversity is an asset that strengthens our community by the enrichment of various backgorunds, life experiences and points of view. 
 
 
-```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
+```{r, echo=FALSE, out.width= "300px", fig.align='center', dpi=72}
 
 knitr::include_graphics("photos/Llanganates.jpg") 
 
 ```
 
-<br>
+
+
 <br>
 <br>
 
