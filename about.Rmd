@@ -14,7 +14,7 @@ I am committed to efforts in creating equal opportunity and representation of al
 
 ```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
 
-knitr::include_graphics("photos/Llanganates.jpeg") 
+knitr::include_graphics("photos/Llanganates.jpg") 
 
 ```
 
