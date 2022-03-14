@@ -14,7 +14,8 @@ I am committed to efforts in creating equal opportunity and representation of al
 
 ```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
 
-knitr::include_graphics("photos/personal_collage.jpeg") #I have to create a image and create a folder named "photos" to validate the path. 
+knitr::include_graphics("photos/Llanganates.jpeg") 
+
 ```
 
 <br>
