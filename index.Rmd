@@ -10,7 +10,7 @@ library(knitr)
 
 Hi! My name is Juan Pablo Jordán and I'm currently a first year PhD Student in the Kessler Lab at Cornell University. 
 
-My interests lie at the intersection between chemical ecology and agroecology. By studying intercropping system, I try to better understand how species interactions both above and below ground influence resistance to herbivores and pathogens. I am also interested in the maintenance of phytochemical diversity, evolution of plant defenses, and plant-soil feedbacks.
+My interests lie at the intersection between chemical ecology and agroecology. By studying intercropping system, I try to better understand how species interactions both above and below ground mediate resistance to herbivores and pathogens. I am also interested in the maintenance of phytochemical diversity, evolution of plant defenses, and plant-soil feedbacks.
 
 <br>
 
