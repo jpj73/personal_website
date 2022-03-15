@@ -14,7 +14,7 @@ My interests lie at the intersection between chemical ecology and agroecology. B
 
 <br>
 
-```{r, echo=FALSE, out.width= "400px", fig.align='center', dpi=72}
+```{r, echo=FALSE, out.width= "500px", fig.align='center', dpi=72}
 
 knitr::include_graphics("photos/personal.png")  
 ```
