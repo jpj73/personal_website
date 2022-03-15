@@ -6,7 +6,7 @@ output: html_document
 
 **Accepted**
 <br>
-_**Jordán, J.P.**, Dominguez-Trujillo, M., Cisneros-Heredia D. F. Phylogenetic revision of the spider genus Taczanowskia: description of a new species from the Amazonian lowlands of Ecuador. In press Invertebrate Systematics._ [Click Here](https://www.publish.csiro.au/IS/justaccepted/IS20084)
+_**JJordán, J. P., Domínguez-Trujillo, M., & Cisneros-Heredia, D. F. (2021). Phylogenetic placement of the spider genus Taczanowskia (Araneae: Araneidae) and description of a new species from Ecuador. Invertebrate Systematics, 35(7), 742–753. https://doi.org/10.1071/IS20084_ [Click Here](https://www.publish.csiro.au/IS/IS20084)
 
 <br>
 ```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
