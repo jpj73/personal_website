@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-**Accepted**
+**Accepted in peer-reviewed Journals**
 <br>
 **Jordán, J. P**., Domínguez-Trujillo, M., & Cisneros-Heredia, D. F. (2021). Phylogenetic placement of the spider genus Taczanowskia (Araneae: Araneidae) and description of a new species from Ecuador. Invertebrate Systematics, 35(7), 742–753. https://doi.org/10.1071/IS20084 [Click Here](https://www.publish.csiro.au/IS/IS20084) 
 
