@@ -6,17 +6,25 @@ output: html_document
 
 **Accepted**
 <br>
-_**Jordán, J. P**., Domínguez-Trujillo, M., & Cisneros-Heredia, D. F. (2021). Phylogenetic placement of the spider genus Taczanowskia (Araneae: Araneidae) and description of a new species from Ecuador. Invertebrate Systematics, 35(7), 742–753. https://doi.org/10.1071/IS20084_ [Click Here](https://www.publish.csiro.au/IS/IS20084)
+**Jordán, J. P**., Domínguez-Trujillo, M., & Cisneros-Heredia, D. F. (2021). Phylogenetic placement of the spider genus Taczanowskia (Araneae: Araneidae) and description of a new species from Ecuador. Invertebrate Systematics, 35(7), 742–753. https://doi.org/10.1071/IS20084 [Click Here](https://www.publish.csiro.au/IS/IS20084) 
+
+initaciáíó
 
 <br>
 ```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
-knitr::include_graphics("photos/Just_accepted.jpg") 
+knitr::include_graphics("photos/Invert_sys.jpg") 
 ``` 
+<br>
 
+Losey, J. E., Chen, C., Davis, A. E., Deitsch, J. F., Gertin, J. G., Gorneau, J. A., Hallock, E. M.,**Jordán, J. P.**, Kim, Z. J., Kubinski, E. G., Laurenz, N. R., Li, S. B., Mullen, E. K., O’Brien, A., Richardson, L. I., Vincent, S., Wang, S. Y., Yarhouse, E. L., Schydlowsky, A., & Curtis, P. D. (2022). Insects and spiders on the web: Monitoring and mitigating online exploitation of species and services. Global Ecology and Conservation, 36, e02098. https://doi.org/10.1016/j.gecco.2022.e02098
+
+
+```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
+knitr::include_graphics("photos/GECCO.jpg") 
+``` 
 <br>
 **In-prep / submitted**
 
-_Losey, J., Chen, C., Davis, A., Deitsch, J., Gertin, J., Gorneau, J.A., Hallock, E.M., **Jordán, J.P.**, Kim, Z., Kubinski, E., Laurenz, N., Li, S., Mullen, E., O’Brien, A., Richardson, L., Vincent, S., Wang, S., Yarhouse, E., Schydlowsky, A., Curtis, P. Insects and spiders on the web: Monitoring and mitigating online exploitation of invertebrate species and services. In peer review GECCO._
 
 <br>
 <br>
