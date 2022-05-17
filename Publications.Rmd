@@ -16,7 +16,7 @@ knitr::include_graphics("photos/Invert_sys.jpg")
 ``` 
 <br>
 
-Losey, J. E., Chen, C., Davis, A. E., Deitsch, J. F., Gertin, J. G., Gorneau, J. A., Hallock, E. M.,**Jordán, J. P.**, Kim, Z. J., Kubinski, E. G., Laurenz, N. R., Li, S. B., Mullen, E. K., O’Brien, A., Richardson, L. I., Vincent, S., Wang, S. Y., Yarhouse, E. L., Schydlowsky, A., & Curtis, P. D. (2022). Insects and spiders on the web: Monitoring and mitigating online exploitation of species and services. Global Ecology and Conservation, 36, e02098. https://doi.org/10.1016/j.gecco.2022.e02098
+Losey, J. E., Chen, C., Davis, A. E., Deitsch, J. F., Gertin, J. G., Gorneau, J. A., Hallock, E. M.,**Jordán, J. P.**, Kim, Z. J., Kubinski, E. G., Laurenz, N. R., Li, S. B., Mullen, E. K., O’Brien, A., Richardson, L. I., Vincent, S., Wang, S. Y., Yarhouse, E. L., Schydlowsky, A., & Curtis, P. D. (2022). Insects and spiders on the web: Monitoring and mitigating online exploitation of species and services. Global Ecology and Conservation, 36, e02098. https://doi.org/10.1016/j.gecco.2022.e02098 [Click Here](https://www-sciencedirect-com.proxy.library.cornell.edu/science/article/pii/S2351989422001007?via%3Dihub)
 
 
 ```{r, echo=FALSE, out.width= "600px", fig.align='center', dpi=72}
