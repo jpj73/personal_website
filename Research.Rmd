@@ -20,6 +20,12 @@ Nevertheless, spending time in the Ecuadorian countryside it the best therapy fo
 This brief but intense field season has been motivated by scientific inquiry but defined by personal growth and deep reflection. I look forward to returning in the summer to complete the project. 
 <br>
 
+```{r, echo=FALSE, out.width= "400px", fig.align='center', dpi=72}
+
+knitr::include_graphics("photos/Field season 2023.png") 
+
+```
+Papallacta - Archidona, Ecuador (Photos by Juan Pablo Jordán). 
 ***
 
 Reflexiones de trabajar en el campo: 
